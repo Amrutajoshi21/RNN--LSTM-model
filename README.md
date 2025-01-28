@@ -1,2 +1,2 @@
 # RNN--LSTM-model
-Trip Adviser Dataset
+Trip Adviser Review Dataset
